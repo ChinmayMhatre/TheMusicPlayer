@@ -33,22 +33,20 @@ Never made an open source contribution before? Wondering how contributions work 
 4. Add the upstream remote:
 
    ```
-    git remote add upstream https://github.com/abitsalihu/quizafriend.git
+    git remote add upstream https://github.com/ChinmayMhatre/TheMusicPlayer.git
    ```
 
 5. Pull the latest changes from the main repository if you think your fork is behind:
 
    ```
-   git pull upstream main
+   git pull upstream master
    ```
 
-6. Next install npm and run the script to start the live-server.
+6. Next install npm and run the script to start the server.
 
    ```
    npm install
-   ```
 
-   ```
    npm run dev
    ```
 
